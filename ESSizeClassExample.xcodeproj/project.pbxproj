@@ -156,6 +156,7 @@
 		33F495E91B6D010E0082000D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = com.strohtennis;
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				33F496121B6D010E0082000D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		33F496131B6D010E0082000D /* Build configuration list for PBXNativeTarget "ESSizeClassExampleTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				33F496151B6D010E0082000D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
